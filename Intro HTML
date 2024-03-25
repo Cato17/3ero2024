@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Escuela de Surf</title>
+</head>
+<body>
+	<header> <p>Hawaii School Surf</p> </header>
+	<nav>
+		Inicio
+		Nosotros
+		Fotos
+		Videos
+		Servicios
+		Encuentranos
+	</nav>
+	<br>
+	<main>
+		<section> <p> Tenemos los mejores profesores! </p> </section>
+		<section> <p> Enseñamos en las playas mas adecuadas para tu aprendizaje </p> </section>
+	</main>
+	<br>
+	<aside>
+		<article>
+			Las playas donde estaremos la próxima semana.
+		</article>
+		<article>
+			Se viene una linda temporada de olas.
+		</article>
+		<article>
+			Aprovecha la promoción 2x1!.
+		</article>
+	</aside>
+	<br>
+	<div> <p>Búscanos en nuestra página de instagram!</p> </div>
+	<br>
+	<footer>
+		<div>
+			<p>Contáctanos al: 123456789</p>
+			<p>Nuestras redes sociales.</p>
+			<p>Playas de Hawaii.</p>
+		</div>
+	</footer>
+</body>
+</html
